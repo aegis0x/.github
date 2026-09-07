@@ -1,55 +1,73 @@
-<h1 align="center">🛡️ Aegis</h1>
+# Aegis 🛡️
 
-<p align="center"><strong>Du lourd pour ton serveur. Rien d'autre.</strong></p>
+> **Heavy gear for your server.**
+> Premium resources for game servers and the Discord ecosystem.
 
-<p align="center">
-  <a href="https://aegis.store">🌐 aegis.store</a> &nbsp;•&nbsp; <b>@aegis0x</b>
-</p>
-
----
-
-## 🗣️ FR — Salut
-
-On est **Aegis**. Des devs qui font du gaming server, pour de vrai.
-
-Pas de templates recyclés, pas de code jetable. On code ce qu'on aimerait installer nous-mêmes : propre, testé, documenté, et qui tourne sans te bouffer les perfs. Si c'est pas prêt, ça sort pas. 🚀
-
-### 🧱 Ce qu'on construit
-
-- **`@aegis/core`** ⚙️ le socle. La base solide sur laquelle tout le reste tient.
-- **`@aegis/shield`** 🛡️ la sécurité et l'anticheat. Ton serveur, blindé.
-- **`@aegis/mcp`** 🤖 le pont vers l'IA. Pilote et surveille ton serveur avec des agents.
-
-### 🎮 On bosse uniquement pour
-
-`FiveM` · `Minecraft` · `Rust` · `ARK` · `Garry's Mod` · **bots & plugins Discord** (type BetterDiscord)
-
-C'est notre terrain. On y reste, et on le connaît par cœur.
+[![Store](https://img.shields.io/badge/Store-aegis.store-0b0b0b?style=for-the-badge)](https://aegis.store)
+[![Socials](https://img.shields.io/badge/Socials-@aegis0x-1d9bf0?style=for-the-badge)](https://aegis.store)
 
 ---
 
-## 💬 EN — Hey
+## 👋 Who we are
 
-We're **Aegis**. Devs who actually run game servers.
+A team of developers focused on game servers
+and the Discord ecosystem.
 
-No recycled templates, no throwaway code. We ship what we'd install ourselves: clean, tested, documented, and light on your tick rate. If it's not ready, it doesn't ship. 🚀
+We build the tools we run ourselves:
+clean, tested, documented, made for performance.
 
-### 🧱 What we build
-
-- **`@aegis/core`** ⚙️ the foundation everything else is built on.
-- **`@aegis/shield`** 🛡️ security and anticheat. Your server, locked down.
-- **`@aegis/mcp`** 🤖 the AI bridge. Drive and monitor your server with agents.
-
-### 🎮 We only work on
-
-`FiveM` · `Minecraft` · `Rust` · `ARK` · `Garry's Mod` · **Discord bots & plugins** (BetterDiscord and friends)
-
-That's our turf. We stay on it, and we know it cold.
+No throwaway code. If it is not ready, it does not ship.
 
 ---
 
-<p align="center">
-  <a href="https://aegis.store"><strong>🛒 aegis.store</strong></a> &nbsp;•&nbsp; <b>@aegis0x</b>
-</p>
+## 🧩 What we build
 
-<p align="center"><sub>Fait par des devs, pour des serveurs. 🛡️</sub></p>
+### ⚙️ `@aegis/core`
+The shared foundation for our resources.
+A stable, modular and light base that everything else builds on.
+
+### 🛡️ `@aegis/shield`
+Security and anticheat protection.
+Detection, logging and hardening to keep your server clean.
+
+### 🤖 `@aegis/mcp`
+The bridge between your server and AI agents.
+Drive, monitor and automate through the Model Context Protocol.
+
+---
+
+## 🎮 Where we work
+
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-CD412B?style=for-the-badge)
+![ARK](https://img.shields.io/badge/ARK-4B9CD3?style=for-the-badge)
+![Garry's Mod](https://img.shields.io/badge/Garry's%20Mod-3A5A8C?style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord%20bots%20%26%20plugins-5865F2?style=for-the-badge)
+
+**FiveM**, **Minecraft**, **Rust**, **ARK** and **Garry's Mod** servers,
+plus **Discord bots and plugins** (BetterDiscord and friends).
+
+We stick to what we know.
+
+---
+
+## ⚡ Our approach
+
+- **Verified quality**: every resource is tested and optimized before release.
+- **Instant delivery**: pay, download, deploy.
+- **Lifetime updates**: bought once, improved forever.
+- **Responsive support**: real devs who answer, in English and French.
+
+---
+
+## 🔗 Follow us
+
+- **Store**: [aegis.store](https://aegis.store)
+- **Socials**: **@aegis0x**
+
+---
+
+Made with ❤️ in France.
+
+**English** · [Français](./README.fr.md)
