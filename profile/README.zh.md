@@ -21,15 +21,15 @@
 
 ## 🧩 我们打造什么
 
-### ⚙️ `@aegis/core`
+### ⚙️ [`@aegis/core`](https://github.com/aegis0x/core)
 我们资源的共享基础。
 稳定、模块化、轻量，一切都在其上构建。
 
-### 🛡️ `@aegis/shield`
+### 🛡️ [`@aegis/shield`](https://github.com/aegis0x/shield)
 安全与反作弊保护。
 检测、日志与加固，让你的服务器保持干净。
 
-### 🤖 `@aegis/mcp`
+### 🤖 [`@aegis/mcp`](https://github.com/aegis0x/mcp)
 你的服务器与 AI 智能体之间的桥梁。
 通过 Model Context Protocol 驱动、监控并自动化。
 

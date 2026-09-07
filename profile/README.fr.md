@@ -22,15 +22,15 @@ Pas de code jetable. Si ce n'est pas prêt, ça ne sort pas.
 
 ## 🧩 Ce qu'on construit
 
-### ⚙️ `@aegis/core`
+### ⚙️ [`@aegis/core`](https://github.com/aegis0x/core)
 Le socle commun de nos ressources.
 Une base stable, modulaire et légère sur laquelle tout le reste s'appuie.
 
-### 🛡️ `@aegis/shield`
+### 🛡️ [`@aegis/shield`](https://github.com/aegis0x/shield)
 La sécurité et la protection anticheat.
 Détection, logs et blindage pour garder ton serveur propre.
 
-### 🤖 `@aegis/mcp`
+### 🤖 [`@aegis/mcp`](https://github.com/aegis0x/mcp)
 Le pont entre ton serveur et les agents IA.
 Pilote, surveille et automatise via le Model Context Protocol.
 

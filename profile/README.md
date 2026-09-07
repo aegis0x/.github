@@ -22,15 +22,15 @@ No throwaway code. If it is not ready, it does not ship.
 
 ## 🧩 What we build
 
-### ⚙️ `@aegis/core`
+### ⚙️ [`@aegis/core`](https://github.com/aegis0x/core)
 The shared foundation for our resources.
 A stable, modular and light base that everything else builds on.
 
-### 🛡️ `@aegis/shield`
+### 🛡️ [`@aegis/shield`](https://github.com/aegis0x/shield)
 Security and anticheat protection.
 Detection, logging and hardening to keep your server clean.
 
-### 🤖 `@aegis/mcp`
+### 🤖 [`@aegis/mcp`](https://github.com/aegis0x/mcp)
 The bridge between your server and AI agents.
 Drive, monitor and automate through the Model Context Protocol.
 
