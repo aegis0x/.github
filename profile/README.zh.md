@@ -5,7 +5,8 @@
 
 [![商店](https://img.shields.io/badge/商店-aegis.store-0b0b0b?style=for-the-badge)](https://aegis.store)
 [![社交](https://img.shields.io/badge/社交-@aegis0x-1d9bf0?style=for-the-badge)](https://aegis.store)
-[![Discussions](https://img.shields.io/badge/社区-Discussions-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aegis0x/discussions)
+[![Discussions](https://img.shields.io/badge/社区-Discussions-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aegis0x/discussions)
+[![Discord](https://img.shields.io/badge/Discord-加入-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aegis0x)
 
 ---
 
@@ -77,6 +78,7 @@
 - **商店**：[aegis.store](https://aegis.store)
 - **社交**：**@aegis0x**
 - **社区**：[Discussions](https://github.com/orgs/aegis0x/discussions)
+- **Discord**：[discord.gg/aegis0x](https://discord.gg/aegis0x)
 
 ---
 

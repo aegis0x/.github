@@ -5,7 +5,8 @@
 
 [![Boutique](https://img.shields.io/badge/Boutique-aegis.store-0b0b0b?style=for-the-badge)](https://aegis.store)
 [![Socials](https://img.shields.io/badge/Socials-@aegis0x-1d9bf0?style=for-the-badge)](https://aegis.store)
-[![Discussions](https://img.shields.io/badge/Communauté-Discussions-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aegis0x/discussions)
+[![Discussions](https://img.shields.io/badge/Communauté-Discussions-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aegis0x/discussions)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aegis0x)
 
 ---
 
@@ -78,6 +79,7 @@ Si tu aimes notre travail, un don nous aide à sortir plus, plus vite.
 - **Boutique** : [aegis.store](https://aegis.store)
 - **Réseaux** : **@aegis0x**
 - **Communauté** : [Discussions](https://github.com/orgs/aegis0x/discussions)
+- **Discord** : [discord.gg/aegis0x](https://discord.gg/aegis0x)
 
 ---
 
