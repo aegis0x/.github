@@ -10,7 +10,7 @@
 
 ## 👋 Who we are
 
-A team of developers focused on game servers
+A team of French developers focused on game servers
 and the Discord ecosystem.
 
 We build the tools we run ourselves:

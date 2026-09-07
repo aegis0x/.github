@@ -10,7 +10,7 @@
 
 ## 👋 Qui on est
 
-Une équipe de développeurs spécialisée dans les serveurs de jeu
+Une équipe de développeurs français spécialisée dans les serveurs de jeu
 et l'écosystème Discord.
 
 On construit les outils qu'on utilise nous-mêmes :
