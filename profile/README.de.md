@@ -5,6 +5,7 @@
 
 [![Shop](https://img.shields.io/badge/Shop-aegis.store-0b0b0b?style=for-the-badge)](https://aegis.store)
 [![Social](https://img.shields.io/badge/Social-@aegis0x-1d9bf0?style=for-the-badge)](https://aegis.store)
+[![Discussions](https://img.shields.io/badge/Community-Discussions-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aegis0x/discussions)
 
 ---
 
@@ -76,6 +77,7 @@ Wenn dir unsere Arbeit gefällt, hilft eine Spende uns, mehr und schneller zu li
 
 - **Shop**: [aegis.store](https://aegis.store)
 - **Social**: **@aegis0x**
+- **Community**: [Discussions](https://github.com/orgs/aegis0x/discussions)
 
 ---
 
