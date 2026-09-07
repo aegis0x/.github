@@ -57,7 +57,18 @@ On reste sur ce qu'on maîtrise.
 - **Qualité vérifiée** : chaque ressource est testée et optimisée avant sortie.
 - **Livraison instantanée** : tu paies, tu télécharges, tu déploies.
 - **Mises à jour à vie** : acheté une fois, amélioré pour toujours.
-- **Support réactif** : de vrais devs qui répondent, en anglais et en français.
+- **Support réactif** : de vrais devs qui répondent, en plusieurs langues.
+
+---
+
+## ❤️ Nous soutenir
+
+Si tu aimes notre travail, un don nous aide à sortir plus, plus vite.
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/aegis0x)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aegis0x)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/aegis0x)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/aegis0x)
 
 ---
 
@@ -70,4 +81,4 @@ On reste sur ce qu'on maîtrise.
 
 Fait avec ❤️ en France.
 
-[English](./README.md) · **Français**
+[English](./README.md) · **Français** · [Español](./README.es.md) · [Deutsch](./README.de.md) · [中文](./README.zh.md)

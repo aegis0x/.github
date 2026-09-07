@@ -57,7 +57,18 @@ We stick to what we know.
 - **Verified quality**: every resource is tested and optimized before release.
 - **Instant delivery**: pay, download, deploy.
 - **Lifetime updates**: bought once, improved forever.
-- **Responsive support**: real devs who answer, in English and French.
+- **Responsive support**: real devs who answer, in several languages.
+
+---
+
+## ❤️ Support us
+
+If you enjoy our work, a donation helps us ship more, faster.
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/aegis0x)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aegis0x)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/aegis0x)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/aegis0x)
 
 ---
 
@@ -70,4 +81,4 @@ We stick to what we know.
 
 Made with ❤️ in France.
 
-**English** · [Français](./README.fr.md)
+**English** · [Français](./README.fr.md) · [Español](./README.es.md) · [Deutsch](./README.de.md) · [中文](./README.zh.md)
