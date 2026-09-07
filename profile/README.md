@@ -8,7 +8,7 @@
 
 ---
 
-## 🇫🇷 Salut
+## 🗣️ FR — Salut
 
 On est **Aegis**. Des devs qui font du gaming server, pour de vrai.
 
@@ -28,7 +28,7 @@ C'est notre terrain. On y reste, et on le connaît par cœur.
 
 ---
 
-## 🇬🇧 Hey
+## 💬 EN — Hey
 
 We're **Aegis**. Devs who actually run game servers.
 
